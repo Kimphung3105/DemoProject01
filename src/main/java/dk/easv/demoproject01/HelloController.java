@@ -15,7 +15,7 @@ public class HelloController {
     public void Github(){
 
         System.out.println("this dose nothing1234");
-
+        System.out.println("test2");
     }
 
 
